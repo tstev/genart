@@ -1,0 +1,3 @@
+[submodule "abstractions"]
+	path = abstractions
+	url = git@github.com:aschinchon/abstractions.git
